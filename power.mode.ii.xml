@@ -1,6 +1,9 @@
 <application>
   <component name="PowerModeII">
-    <option name="enabled" value="false" />
+    <option name="customBamImageFolder" value="D:\application\workApp\idea\idea\IntelliJ IDEA 2020.1.1\jbr\bin" />
+    <option name="customFlameImageFolder" value="D:\application\workApp\idea\idea\IntelliJ IDEA 2020.1.1\jbr\bin" />
+    <option name="flamesEnabled" value="false" />
     <option name="isBamEnabled" value="false" />
+    <option name="soundsFolder" value="D:\application\workApp\idea\idea\IntelliJ IDEA 2020.1.1\jbr\bin" />
   </component>
 </application>
