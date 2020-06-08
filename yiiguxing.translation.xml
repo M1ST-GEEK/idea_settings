@@ -1,18 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Copy to Clipboard" />
+      <item value="documentation" />
+      <item value="select By Example" />
+      <item value="get Output Stream" />
       <item value="parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200608000489895" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
+    <option name="translator" value="fanyi.baidu" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="16ca88d592de6ab1" />
