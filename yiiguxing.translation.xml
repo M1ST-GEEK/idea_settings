@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="序号" />
       <item value="未解决" />
       <item value="未解决问题" />
       <item value="check Matter Operation" />
