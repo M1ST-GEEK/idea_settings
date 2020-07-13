@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No tracked branch configured for branch M1ST or the branch doesn't exist. To make your branch track a remote branch call, for example" />
+      <item value="amend" />
       <item value="签章" />
       <item value="JRebel not responding or version out of date" />
       <item value="折叠" />
@@ -25,7 +27,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="11" />
       </map>
     </option>
