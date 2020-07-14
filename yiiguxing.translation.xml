@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duplicate entry" />
       <item value="Cannot apply containsIgnoreCase on null" />
       <item value="No tracked branch configured for branch M1ST or the branch doesn't exist. To make your branch track a remote branch call, for example" />
       <item value="amend" />
