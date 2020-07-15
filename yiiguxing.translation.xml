@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="短信" />
+      <item value="判断 是否 升级" />
       <item value="duplicate entry" />
       <item value="Cannot apply containsIgnoreCase on null" />
       <item value="No tracked branch configured for branch M1ST or the branch doesn't exist. To make your branch track a remote branch call, for example" />
@@ -18,7 +20,6 @@
       <item value="比例" />
       <item value="filter" />
       <item value="com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure The last packet successfully received from the server was 1,001 milliseconds ago. The last packet sent successfully to the server was 1,001 milliseconds ago. at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) at sun.reflect.DelegatingConstructorAccessorImpl.__newInstance(DelegatingConstructorAccessorImpl.java:45) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45009) at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45012) at java.lang.reflect.Constructor.newInstance(Constructor.java:423)" />
-      <item value="短信" />
       <item value="XSSF Workbook" />
       <item value="control" />
       <item value="Copy to Clipboard" />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
