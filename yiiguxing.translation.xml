@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="税率" />
       <item value="备注" />
       <item value="短信" />
       <item value="判断 是否 升级" />
