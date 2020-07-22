@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="专家费用明细表公式模板" />
+      <item value="专家费用明细表" />
       <item value="http" />
       <item value="结果" />
       <item value="厂家" />
@@ -37,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
