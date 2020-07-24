@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重置" />
+      <item value="密码" />
       <item value="freeze" />
       <item value="专家费用明细表公式模板" />
       <item value="专家费用明细表" />
@@ -41,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
