@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecated" />
+      <item value="front" />
       <item value="active" />
       <item value="idle" />
       <item value="继承类" />
