@@ -10,9 +10,13 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="hh_ubuntu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/M1ST-GEEK/auto_code_generate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workSpace\SecJob" />
+    <option name="cloneParentDir" value="D:\studySpace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
