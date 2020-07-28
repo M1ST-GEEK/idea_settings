@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="active" />
+      <item value="idle" />
       <item value="继承类" />
       <item value="继承" />
       <item value="Please initialize the log4j system properly." />
@@ -46,7 +48,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="16" />
       </map>
     </option>
