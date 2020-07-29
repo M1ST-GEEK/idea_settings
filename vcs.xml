@@ -22,9 +22,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="M1ST&amp;GEEK++" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/M1ST-GEEK/thesixsectorTeam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\studySpace\project" />
+    <option name="cloneParentDir" value="D:\studySpace\project\six-sector-system" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
