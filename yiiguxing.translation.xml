@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提交" />
+      <item value="计算" />
+      <item value="accounting" />
+      <item value="核算" />
+      <item value="cut" />
+      <item value="核减" />
       <item value="shiro" />
       <item value="mist" />
       <item value="批量" />
@@ -45,17 +51,11 @@
       <item value="JRebel not responding or version out of date" />
       <item value="折叠" />
       <item value="操作" />
-      <item value="序号" />
-      <item value="未解决" />
-      <item value="未解决问题" />
-      <item value="check Matter Operation" />
-      <item value="百分比" />
-      <item value="下属" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
