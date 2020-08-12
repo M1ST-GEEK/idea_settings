@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="税率" />
       <item value="分包" />
       <item value="eslint-disable-next-line no-tabs" />
       <item value="sorter" />
@@ -42,7 +43,6 @@
       <item value="厂家" />
       <item value="部分" />
       <item value="配套" />
-      <item value="税率" />
       <item value="备注" />
       <item value="短信" />
       <item value="判断 是否 升级" />
