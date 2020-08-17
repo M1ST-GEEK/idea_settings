@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="减法" />
+      <item value="序号" />
       <item value="金额" />
       <item value="集合" />
       <item value="规则" />
@@ -49,8 +51,6 @@
       <item value="配套" />
       <item value="备注" />
       <item value="短信" />
-      <item value="判断 是否 升级" />
-      <item value="duplicate entry" />
     </histories>
     <option name="languageScores">
       <map>
