@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="集合" />
       <item value="规则" />
       <item value="mist" />
       <item value="分包" />
@@ -50,7 +51,6 @@
       <item value="判断 是否 升级" />
       <item value="duplicate entry" />
       <item value="Cannot apply containsIgnoreCase on null" />
-      <item value="No tracked branch configured for branch M1ST or the branch doesn't exist. To make your branch track a remote branch call, for example" />
     </histories>
     <option name="languageScores">
       <map>
