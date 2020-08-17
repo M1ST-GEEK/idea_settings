@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="金额" />
       <item value="集合" />
       <item value="规则" />
       <item value="mist" />
@@ -50,7 +51,6 @@
       <item value="短信" />
       <item value="判断 是否 升级" />
       <item value="duplicate entry" />
-      <item value="Cannot apply containsIgnoreCase on null" />
     </histories>
     <option name="languageScores">
       <map>
