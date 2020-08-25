@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="规则" />
       <item value="分包 规则" />
       <item value="电压等级" />
       <item value="标题" />
@@ -8,7 +9,6 @@
       <item value="序号" />
       <item value="金额" />
       <item value="集合" />
-      <item value="规则" />
       <item value="mist" />
       <item value="分包" />
       <item value="乘" />
