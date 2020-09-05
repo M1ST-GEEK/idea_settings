@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="品牌" />
       <item value="乘法" />
       <item value="比例" />
       <item value="物料" />
@@ -50,7 +51,6 @@
       <item value="Please initialize the log4j system properly." />
       <item value="重置" />
       <item value="密码" />
-      <item value="freeze" />
     </histories>
     <option name="languageScores">
       <map>
