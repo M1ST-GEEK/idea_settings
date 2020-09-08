@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Win bid" />
+      <item value="中标" />
+      <item value="详情" />
       <item value="比例" />
       <item value="金额" />
       <item value="包金额" />
@@ -48,13 +51,10 @@
       <item value="Remote: No anonymous write access. Authentication failed for 'https://github.com/canxin0523/thesixsectorTeam.git/'" />
       <item value="deprecated" />
       <item value="front" />
-      <item value="active" />
-      <item value="idle" />
-      <item value="继承类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
+        <entry key="CHINESE" value="25" />
         <entry key="ENGLISH" value="25" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
