@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="批量" />
       <item value="地方" />
       <item value="导入" />
       <item value="compCode" />
@@ -40,7 +41,6 @@
       <item value="cut" />
       <item value="核减" />
       <item value="shiro" />
-      <item value="批量" />
       <item value="since" />
       <item value="certificate" />
       <item value="enterprise" />
