@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分包" />
       <item value="VALID" />
       <item value="导出" />
       <item value="导入" />
@@ -31,7 +32,6 @@
       <item value="序号" />
       <item value="集合" />
       <item value="mist" />
-      <item value="分包" />
       <item value="乘" />
       <item value="税率" />
       <item value="eslint-disable-next-line no-tabs" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
