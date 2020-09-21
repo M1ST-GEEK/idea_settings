@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="乘法" />
+      <item value="乘" />
       <item value="condition" />
       <item value="Truncated incorrect DOUBLE value" />
       <item value="similarity" />
@@ -23,7 +25,6 @@
       <item value="包裹" />
       <item value="类别" />
       <item value="品牌" />
-      <item value="乘法" />
       <item value="物料" />
       <item value="电压等级" />
       <item value="当前" />
@@ -36,7 +37,6 @@
       <item value="序号" />
       <item value="集合" />
       <item value="mist" />
-      <item value="乘" />
       <item value="税率" />
       <item value="eslint-disable-next-line no-tabs" />
       <item value="sorter" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
