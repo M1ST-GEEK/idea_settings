@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="类别" />
       <item value="乘法" />
       <item value="乘" />
       <item value="condition" />
@@ -23,7 +24,6 @@
       <item value="包金额" />
       <item value="分" />
       <item value="包裹" />
-      <item value="类别" />
       <item value="品牌" />
       <item value="物料" />
       <item value="电压等级" />
