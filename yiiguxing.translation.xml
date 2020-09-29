@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="absolute" />
+      <item value="relative" />
+      <item value="position" />
+      <item value="批量" />
       <item value="完成" />
       <item value="类别" />
       <item value="乘法" />
@@ -13,7 +17,6 @@
       <item value="VALID" />
       <item value="导出" />
       <item value="导入" />
-      <item value="批量" />
       <item value="地方" />
       <item value="compCode" />
       <item value="subcontracting_rules" />
@@ -48,13 +51,10 @@
       <item value="cut" />
       <item value="核减" />
       <item value="shiro" />
-      <item value="since" />
-      <item value="certificate" />
-      <item value="enterprise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
+        <entry key="CHINESE" value="29" />
         <entry key="ENGLISH" value="29" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
