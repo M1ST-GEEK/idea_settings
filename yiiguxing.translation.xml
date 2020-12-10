@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="说明" />
       <item value="分配" />
       <item value="absolute" />
       <item value="relative" />
@@ -50,7 +51,6 @@
       <item value="accounting" />
       <item value="核算" />
       <item value="cut" />
-      <item value="核减" />
     </histories>
     <option name="languageScores">
       <map>
