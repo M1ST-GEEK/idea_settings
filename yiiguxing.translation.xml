@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="un Use Explain" />
+      <item value="file Id" />
+      <item value="sub Project Desc" />
       <item value="说明" />
       <item value="分配" />
       <item value="absolute" />
@@ -48,20 +51,18 @@
       <item value="sorter" />
       <item value="提交" />
       <item value="计算" />
-      <item value="accounting" />
-      <item value="核算" />
-      <item value="cut" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="36" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20200608000489895" />
