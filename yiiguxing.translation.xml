@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expert" />
       <item value="un Use Explain" />
       <item value="file Id" />
       <item value="sub Project Desc" />
@@ -50,12 +51,11 @@
       <item value="eslint-disable-next-line no-tabs" />
       <item value="sorter" />
       <item value="提交" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
