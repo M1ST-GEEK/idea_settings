@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="确认" />
+      <item value="去人" />
       <item value="border" />
       <item value="region" />
       <item value="审批" />
@@ -49,13 +51,11 @@
       <item value="减法" />
       <item value="规则" />
       <item value="分包 规则" />
-      <item value="标题" />
-      <item value="序号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
