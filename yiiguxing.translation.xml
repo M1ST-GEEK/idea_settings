@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimus prime" />
       <item value="Invalid left-hand side in assignment expression" />
       <item value="原始" />
       <item value="nested exception is org.apache.ibatis.builder.BuilderException: Error invoking SqlProvider method (tk.mybatis.mapper.provider.base.BaseSelectProvider.dynamicSQL). Cause: java.lang.InstantiationException: tk.mybatis.mapper.provider.base" />
@@ -50,7 +51,6 @@
       <item value="详情" />
       <item value="比例" />
       <item value="金额" />
-      <item value="包金额" />
     </histories>
     <option name="languageScores">
       <map>
