@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="专家" />
       <item value="导出" />
       <item value="cover" />
       <item value="authorization" />
@@ -50,7 +51,6 @@
       <item value="地方" />
       <item value="compCode" />
       <item value="subcontracting_rules" />
-      <item value="Win bid" />
     </histories>
     <option name="languageScores">
       <map>
