@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="导出" />
       <item value="cover" />
       <item value="authorization" />
       <item value="授权" />
@@ -45,7 +46,6 @@
       <item value="author" />
       <item value="分包" />
       <item value="VALID" />
-      <item value="导出" />
       <item value="导入" />
       <item value="地方" />
       <item value="compCode" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
