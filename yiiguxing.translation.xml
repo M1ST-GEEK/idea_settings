@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="地区" />
+      <item value="专业" />
       <item value="专家" />
       <item value="导出" />
       <item value="cover" />
@@ -49,8 +51,6 @@
       <item value="VALID" />
       <item value="导入" />
       <item value="地方" />
-      <item value="compCode" />
-      <item value="subcontracting_rules" />
     </histories>
     <option name="languageScores">
       <map>
