@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字典" />
       <item value="process" />
       <item value="public constructor MyCasFilter(String casServer, String appServer, String homePage, String excludedPaths, String redisAddress, String redisPassword, String backUrl)" />
       <item value="次数" />
@@ -50,12 +51,11 @@
       <item value="分配" />
       <item value="absolute" />
       <item value="relative" />
-      <item value="position" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
