@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="byte" />
       <item value="Captcha" />
       <item value="字典" />
       <item value="process" />
@@ -50,12 +51,11 @@
       <item value="sub Project Desc" />
       <item value="说明" />
       <item value="分配" />
-      <item value="absolute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
