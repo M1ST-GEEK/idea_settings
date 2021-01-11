@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf32_general_ci,IMPLICIT) for operation 'UNION'" />
       <item value="enabled" />
       <item value="enable" />
       <item value="验证码" />
@@ -50,7 +51,6 @@
       <item value="supp" />
       <item value="均价" />
       <item value="中标" />
-      <item value="Expert" />
     </histories>
     <option name="languageScores">
       <map>
