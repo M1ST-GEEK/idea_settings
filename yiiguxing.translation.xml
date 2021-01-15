@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="破解" />
       <item value="ciphers" />
       <item value="彩虹" />
       <item value="Comparable" />
@@ -50,12 +51,11 @@
       <item value="身份证" />
       <item value="确认" />
       <item value="去人" />
-      <item value="border" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
