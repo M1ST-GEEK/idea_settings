@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="配套" />
+      <item value="配套 物料" />
       <item value="工厂" />
       <item value="plant desc" />
       <item value="plant code" />
@@ -49,8 +51,6 @@
       <item value="Invalid left-hand side in assignment expression" />
       <item value="原始" />
       <item value="nested exception is org.apache.ibatis.builder.BuilderException: Error invoking SqlProvider method (tk.mybatis.mapper.provider.base.BaseSelectProvider.dynamicSQL). Cause: java.lang.InstantiationException: tk.mybatis.mapper.provider.base" />
-      <item value="SEPARATOR" />
-      <item value="not applicable to filed" />
     </histories>
     <option name="languageScores">
       <map>
