@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设备" />
+      <item value="优等" />
+      <item value="优" />
+      <item value="优质" />
       <item value="配套" />
       <item value="数组" />
       <item value="配套 物料" />
@@ -47,10 +51,6 @@
       <item value="cover" />
       <item value="authorization" />
       <item value="授权" />
-      <item value="被" />
-      <item value="optimus prime" />
-      <item value="Invalid left-hand side in assignment expression" />
-      <item value="原始" />
     </histories>
     <option name="languageScores">
       <map>
