@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sql injection violation, part alway false condition not allow" />
+      <item value="occurred while executing a query" />
       <item value="设备" />
       <item value="优等" />
       <item value="优" />
@@ -49,12 +51,10 @@
       <item value="专家" />
       <item value="导出" />
       <item value="cover" />
-      <item value="authorization" />
-      <item value="授权" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
