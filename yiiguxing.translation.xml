@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="循环" />
+      <item value="轮训" />
+      <item value="金额" />
       <item value="fill" />
       <item value="导出、" />
       <item value="导出" />
@@ -48,14 +51,11 @@
       <item value="审查" />
       <item value="Valid" />
       <item value="Input length must be multiple of 8 when decrypting with padded cipher" />
-      <item value="公共" />
-      <item value="Redundant nullcheck of maxUserId, which is known to be non-null in com.jibei.ywjx.outUser.service.impl.SysOutUserServiceImpl.generateUserId(String)" />
-      <item value="synopsis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
