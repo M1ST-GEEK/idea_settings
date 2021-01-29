@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="专家" />
+      <item value="选择" />
       <item value="query" />
       <item value="学习" />
-      <item value="专家" />
       <item value="地市" />
       <item value="循环" />
       <item value="轮训" />
@@ -50,12 +51,11 @@
       <item value="Captcha" />
       <item value="字典" />
       <item value="process" />
-      <item value="public constructor MyCasFilter(String casServer, String appServer, String homePage, String excludedPaths, String redisAddress, String redisPassword, String backUrl)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
