@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="超时" />
       <item value="description" />
       <item value="public fields, a Map - depending on the concrete binding strategy." />
       <item value="Return the wrapped target object, which may be a bean, an object with" />
@@ -50,12 +51,11 @@
       <item value="enabled" />
       <item value="enable" />
       <item value="验证码" />
-      <item value="部署" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
