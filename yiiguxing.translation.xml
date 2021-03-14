@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JURIDICAL" />
       <item value="模板" />
       <item value="授权" />
       <item value="责任声明" />
@@ -50,11 +51,10 @@
       <item value="破解" />
       <item value="ciphers" />
       <item value="彩虹" />
-      <item value="Comparable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
