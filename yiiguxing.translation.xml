@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encrypt" />
+      <item value="Encryptinfo" />
+      <item value="Encryp" />
       <item value="cas Interface Enable" />
       <item value="JURIDICAL" />
       <item value="模板" />
@@ -48,14 +51,11 @@
       <item value="plant Code" />
       <item value="plant" />
       <item value="Plant" />
-      <item value="serial" />
-      <item value="破解" />
-      <item value="ciphers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
