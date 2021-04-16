@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="公告" />
       <item value="introspect" />
       <item value="Assignable" />
       <item value="is Assignable From" />
@@ -13,7 +14,6 @@
       <item value="请求头" />
       <item value="接口" />
       <item value="常量" />
-      <item value="公告" />
       <item value="ignore" />
       <item value="force update" />
       <item value="force" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
