@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="余数" />
       <item value="iterable" />
       <item value=" iterable" />
       <item value=" iterable." />
@@ -50,12 +51,11 @@
       <item value="Encryp" />
       <item value="cas Interface Enable" />
       <item value="JURIDICAL" />
-      <item value="模板" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
