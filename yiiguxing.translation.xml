@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compile" />
+      <item value="verify" />
+      <item value="validate" />
+      <item value="complie" />
+      <item value="complid" />
+      <item value="site" />
+      <item value="snapshots" />
+      <item value="snap" />
+      <item value="execute maven goal" />
+      <item value="documentation" />
       <item value="余数" />
       <item value="iterable" />
       <item value=" iterable" />
@@ -41,21 +51,11 @@
       <item value="force" />
       <item value="分数" />
       <item value="分身" />
-      <item value="排序" />
-      <item value="等级" />
-      <item value="数组" />
-      <item value="Expire" />
-      <item value="Authorize" />
-      <item value="Encrypt" />
-      <item value="Encryptinfo" />
-      <item value="Encryp" />
-      <item value="cas Interface Enable" />
-      <item value="JURIDICAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="101" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
