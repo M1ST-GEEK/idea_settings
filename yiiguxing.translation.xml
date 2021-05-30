@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bid" />
+      <item value="中标" />
       <item value="compile" />
       <item value="verify" />
       <item value="validate" />
@@ -49,13 +51,11 @@
       <item value="ignore" />
       <item value="force update" />
       <item value="force" />
-      <item value="分数" />
-      <item value="分身" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
