@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核" />
       <item value="开票" />
       <item value="投标" />
       <item value="seller" />
@@ -50,7 +51,6 @@
       <item value="is Assignable From" />
       <item value="Class 'DataToolServiceImpl' must either be declared abstract or implement abstract method 'insert(T)' in 'IService'" />
       <item value="配置" />
-      <item value="express" />
     </histories>
     <option name="languageScores">
       <map>
