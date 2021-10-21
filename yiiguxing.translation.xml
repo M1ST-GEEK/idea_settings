@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审批" />
       <item value="报告" />
       <item value="验证" />
       <item value="整改" />
       <item value="审核" />
-      <item value="审批" />
       <item value="工作流" />
       <item value="统计" />
       <item value="台账" />
