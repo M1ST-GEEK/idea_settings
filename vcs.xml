@@ -38,9 +38,37 @@
           <option name="url" value="http://10.255.0.110:8060" />
           <option name="userName" value="mazehao" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.20.114.160:3000/AH-Team/hse-application-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.20.114.160:3000" />
+          <option name="userName" value="kangaj" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.caini.info/AH-Team/hse-application-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://goge.caini.info:3000/AH-Team/hse-application-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://goge.caini.info:3000/AH-Team/hse-application-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gogs.caini.info/AH-Team/hse-application-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.caini.info" />
+          <option name="userName" value="kangaj" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workSpace\SecJob\companyProject" />
+    <option name="cloneParentDir" value="D:\workSpace\SecJob\anHuanProject\code\source" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
