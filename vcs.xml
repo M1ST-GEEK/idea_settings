@@ -70,6 +70,10 @@
           <option name="url" value="https://gogs.caini.info/AH-Team/hse-application.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.caini.info/AH-Team/hse-application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workSpace\SecJob\anHuanProject\code" />
