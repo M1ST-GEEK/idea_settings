@@ -63,7 +63,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20200608000489895" />
