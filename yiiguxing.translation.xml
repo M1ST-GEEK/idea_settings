@@ -1,12 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="proc Inst" />
+      <item value="sub" />
+      <item value="sub Or Agree" />
+      <item value="Tab Click" />
+      <item value="Handle" />
+      <item value="complete" />
+      <item value="reject" />
+      <item value="submit Handle" />
       <item value="examine" />
       <item value="审批" />
       <item value="基础" />
-      <item value="reject" />
       <item value="process" />
-      <item value="complete" />
       <item value="agree" />
       <item value="分析" />
       <item value="拒绝" />
@@ -45,17 +51,11 @@
       <item value="redis" />
       <item value="rsakey" />
       <item value="Created" />
-      <item value="audit" />
-      <item value="fix" />
-      <item value="常量" />
-      <item value="计算" />
-      <item value="批次" />
-      <item value="联系人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
