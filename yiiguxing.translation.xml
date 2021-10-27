@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="visible" />
       <item value="proc Inst" />
       <item value="sub" />
       <item value="sub Or Agree" />
@@ -50,12 +51,11 @@
       <item value="password" />
       <item value="redis" />
       <item value="rsakey" />
-      <item value="Created" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
