@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入参" />
+      <item value="parms" />
       <item value="Route" />
       <item value="complete" />
       <item value="from" />
@@ -49,13 +51,11 @@
       <item value="@Transient" />
       <item value="Excessive Attempts Exception" />
       <item value="Disabled Account Exception" />
-      <item value="Incorrect Credentials Exception" />
-      <item value="script path" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
