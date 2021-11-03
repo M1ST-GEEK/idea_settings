@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="次级" />
       <item value="字典" />
+      <item value="次级" />
       <item value="隐藏" />
       <item value="入参" />
       <item value="parms" />
