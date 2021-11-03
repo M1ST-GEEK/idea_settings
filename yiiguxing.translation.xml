@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下发" />
+      <item value="模板" />
       <item value="Strictly" />
       <item value="handle" />
       <item value="filter" />
@@ -49,13 +51,11 @@
       <item value="责任" />
       <item value="责任区域" />
       <item value="explain" />
-      <item value="发现人" />
-      <item value="隐患" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
