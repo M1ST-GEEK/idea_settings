@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="problem" />
       <item value="整改" />
       <item value="apply" />
       <item value="Stack trace of thread" />
@@ -50,11 +51,10 @@
       <item value="情况" />
       <item value="资金" />
       <item value="监督" />
-      <item value="整改人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
+        <entry key="CHINESE" value="145" />
         <entry key="ENGLISH" value="145" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
