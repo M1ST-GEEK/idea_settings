@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="延期变更" />
+      <item value="转移" />
+      <item value="替换" />
+      <item value="延期" />
       <item value="complete" />
       <item value="reject" />
       <item value="导出" />
@@ -23,7 +27,6 @@
       <item value="修改" />
       <item value="流程" />
       <item value="取消" />
-      <item value="延期" />
       <item value="模板" />
       <item value="Strictly" />
       <item value="handle" />
@@ -48,14 +51,11 @@
       <item value="examine" />
       <item value="审批" />
       <item value="基础" />
-      <item value="process" />
-      <item value="agree" />
-      <item value="分析" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
