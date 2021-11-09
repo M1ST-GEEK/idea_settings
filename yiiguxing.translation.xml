@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="附属" />
       <item value="分配" />
       <item value="操作" />
       <item value="延期" />
@@ -21,7 +22,6 @@
       <item value="副" />
       <item value="主 副" />
       <item value="主" />
-      <item value="附属" />
       <item value="副表" />
       <item value="来源" />
       <item value="备案" />
