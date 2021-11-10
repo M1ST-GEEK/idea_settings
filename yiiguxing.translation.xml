@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="审批" />
+      <item value="Bution" />
       <item value="确认" />
+      <item value="去人" />
+      <item value="审批" />
       <item value="分配" />
       <item value="延期" />
       <item value="延期变更" />
@@ -49,13 +51,11 @@
       <item value="字典" />
       <item value="次级" />
       <item value="隐藏" />
-      <item value="入参" />
-      <item value="parms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
