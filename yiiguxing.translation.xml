@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="延期" />
+      <item value="延期变更" />
       <item value="取消" />
       <item value="变更" />
       <item value="转移" />
       <item value="替换" />
-      <item value="延期" />
       <item value="特殊" />
       <item value="splice" />
       <item value="附属" />
@@ -19,7 +20,6 @@
       <item value="跳转" />
       <item value="批量" />
       <item value="实施" />
-      <item value="延期变更" />
       <item value="complete" />
       <item value="reject" />
       <item value="导出" />
