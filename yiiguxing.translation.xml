@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下发" />
+      <item value="判断" />
       <item value="同意" />
       <item value="操作" />
       <item value="整改" />
@@ -42,7 +44,6 @@
       <item value="problem" />
       <item value="apply" />
       <item value="Stack trace of thread" />
-      <item value="下发" />
       <item value="分发" />
       <item value="提交报备" />
       <item value="修改" />
@@ -50,7 +51,6 @@
       <item value="模板" />
       <item value="Strictly" />
       <item value="handle" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
