@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同意" />
       <item value="操作" />
       <item value="整改" />
       <item value="申请" />
@@ -50,7 +51,6 @@
       <item value="Strictly" />
       <item value="handle" />
       <item value="filter" />
-      <item value="handle Selection Change" />
     </histories>
     <option name="languageScores">
       <map>
