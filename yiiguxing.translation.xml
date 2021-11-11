@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="整改" />
       <item value="申请" />
       <item value="变更" />
       <item value="延期" />
@@ -38,7 +39,6 @@
       <item value="来源" />
       <item value="备案" />
       <item value="problem" />
-      <item value="整改" />
       <item value="apply" />
       <item value="Stack trace of thread" />
       <item value="下发" />
