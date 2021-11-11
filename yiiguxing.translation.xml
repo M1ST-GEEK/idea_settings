@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete" />
+      <item value="reject" />
       <item value="下发" />
       <item value="判断" />
       <item value="同意" />
@@ -13,7 +15,6 @@
       <item value="content" />
       <item value="notify" />
       <item value="directHandlerSign" />
-      <item value="reject" />
       <item value="Bution" />
       <item value="确认" />
       <item value="去人" />
@@ -32,7 +33,6 @@
       <item value="跳转" />
       <item value="批量" />
       <item value="实施" />
-      <item value="complete" />
       <item value="导出" />
       <item value="分" />
       <item value="副" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
