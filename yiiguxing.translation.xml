@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作" />
       <item value="整改" />
       <item value="申请" />
       <item value="变更" />
@@ -23,7 +24,6 @@
       <item value="splice" />
       <item value="附属" />
       <item value="审核" />
-      <item value="操作" />
       <item value=" 审批" />
       <item value="申请 审批" />
       <item value="跳转" />
