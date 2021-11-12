@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转移" />
       <item value="导出" />
       <item value="导入" />
       <item value="元素" />
@@ -28,7 +29,6 @@
       <item value="分配" />
       <item value="延期变更" />
       <item value="取消" />
-      <item value="转移" />
       <item value="替换" />
       <item value="特殊" />
       <item value="splice" />
