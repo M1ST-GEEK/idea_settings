@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="元素" />
+      <item value="序号" />
       <item value="complete" />
       <item value="审批 " />
       <item value="审批" />
@@ -49,13 +51,11 @@
       <item value="分发" />
       <item value="提交报备" />
       <item value="修改" />
-      <item value="流程" />
-      <item value="模板" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
