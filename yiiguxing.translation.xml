@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="导出" />
+      <item value="导入" />
       <item value="元素" />
       <item value="序号" />
       <item value="complete" />
@@ -37,7 +39,6 @@
       <item value="跳转" />
       <item value="批量" />
       <item value="实施" />
-      <item value="导出" />
       <item value="分" />
       <item value="副" />
       <item value="主 副" />
@@ -50,7 +51,6 @@
       <item value="Stack trace of thread" />
       <item value="分发" />
       <item value="提交报备" />
-      <item value="修改" />
     </histories>
     <option name="languageScores">
       <map>
