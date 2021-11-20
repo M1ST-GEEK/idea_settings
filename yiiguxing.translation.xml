@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="roll Back" />
+      <item value="回退" />
+      <item value="拒绝" />
       <item value="reject" />
       <item value="agency" />
       <item value="complete" />
@@ -48,14 +51,11 @@
       <item value="延期变更" />
       <item value="取消" />
       <item value="替换" />
-      <item value="特殊" />
-      <item value="splice" />
-      <item value="附属" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
