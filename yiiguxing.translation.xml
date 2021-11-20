@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="安全检查" />
       <item value="亲属" />
       <item value="action" />
       <item value="uwl" />
@@ -50,12 +51,11 @@
       <item value="延期" />
       <item value="content" />
       <item value="notify" />
-      <item value="directHandlerSign" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
