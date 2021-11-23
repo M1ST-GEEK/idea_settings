@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="截止" />
+      <item value="直到" />
       <item value="描述" />
       <item value="安全检查" />
       <item value="亲属" />
@@ -49,8 +51,6 @@
       <item value="同意" />
       <item value="申请" />
       <item value="变更" />
-      <item value="延期" />
-      <item value="content" />
     </histories>
     <option name="languageScores">
       <map>
