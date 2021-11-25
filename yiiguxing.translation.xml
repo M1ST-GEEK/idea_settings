@@ -1,12 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parent" />
+      <item value="父" />
+      <item value="家属" />
+      <item value="reject" />
       <item value="备用" />
       <item value="备注" />
       <item value="专家" />
       <item value="说明" />
       <item value="agree" />
-      <item value="reject" />
       <item value="complete" />
       <item value="拒绝" />
       <item value="退回" />
@@ -48,14 +51,11 @@
       <item value="验收" />
       <item value="track" />
       <item value="examine" />
-      <item value="发起" />
-      <item value="creat" />
-      <item value="列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="205" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
