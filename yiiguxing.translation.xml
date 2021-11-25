@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="real" />
+      <item value="realy" />
       <item value="附件" />
       <item value="parent" />
       <item value="父" />
@@ -36,7 +38,6 @@
       <item value="roll Back" />
       <item value="回退" />
       <item value="agency" />
-      <item value="realy" />
       <item value="操作" />
       <item value="操作人" />
       <item value="cannot be cast" />
@@ -50,11 +51,10 @@
       <item value="整改编号" />
       <item value="台账" />
       <item value="验收" />
-      <item value="track" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
+        <entry key="CHINESE" value="206" />
         <entry key="ENGLISH" value="206" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
