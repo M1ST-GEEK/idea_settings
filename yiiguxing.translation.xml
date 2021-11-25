@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="agree" />
+      <item value="reject" />
+      <item value="complete" />
       <item value="拒绝" />
       <item value="退回" />
       <item value="整治 级别" />
@@ -21,12 +24,10 @@
       <item value="Liable" />
       <item value="责任人" />
       <item value="destination" />
-      <item value="reject" />
       <item value="cancel" />
       <item value="roll Back" />
       <item value="回退" />
       <item value="agency" />
-      <item value="complete" />
       <item value="realy" />
       <item value="操作" />
       <item value="操作人" />
@@ -50,12 +51,11 @@
       <item value="转移" />
       <item value="导出" />
       <item value="导入" />
-      <item value="元素" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
