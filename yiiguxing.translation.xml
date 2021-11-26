@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strictly" />
+      <item value="expand" />
       <item value="blur" />
       <item value="定时" />
       <item value="接口" />
@@ -49,13 +51,11 @@
       <item value="roll Back" />
       <item value="回退" />
       <item value="agency" />
-      <item value="操作人" />
-      <item value="cannot be cast" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="215" />
+        <entry key="ENGLISH" value="216" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
