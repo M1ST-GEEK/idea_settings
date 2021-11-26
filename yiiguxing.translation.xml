@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接口" />
+      <item value="interface" />
       <item value="Handler dispatch failed" />
       <item value="操作" />
       <item value="父母" />
@@ -49,13 +51,11 @@
       <item value="操作人" />
       <item value="cannot be cast" />
       <item value="行动项" />
-      <item value="整改" />
-      <item value="datebase" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
