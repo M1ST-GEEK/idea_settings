@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finish" />
+      <item value="实施" />
+      <item value="拟稿" />
       <item value="Strictly" />
       <item value="check Strictly" />
       <item value="expand" />
@@ -48,14 +51,11 @@
       <item value="Liable" />
       <item value="责任人" />
       <item value="destination" />
-      <item value="cancel" />
-      <item value="roll Back" />
-      <item value="回退" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="219" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
