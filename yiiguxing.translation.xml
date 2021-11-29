@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merged Region" />
       <item value="Init" />
       <item value="赋值" />
       <item value="接口" />
@@ -50,12 +51,11 @@
       <item value="直到" />
       <item value="描述" />
       <item value="安全检查" />
-      <item value="亲属" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
