@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="xmind" type="Native" />
       <mapping ext="exe" type="Native" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
