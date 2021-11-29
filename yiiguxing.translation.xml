@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Init" />
+      <item value="赋值" />
+      <item value="接口" />
       <item value="Org Id" />
       <item value="fhroid" />
       <item value="返回" />
@@ -12,7 +15,6 @@
       <item value="expand" />
       <item value="blur" />
       <item value="定时" />
-      <item value="接口" />
       <item value="interface" />
       <item value="Handler dispatch failed" />
       <item value="操作" />
@@ -49,13 +51,11 @@
       <item value="描述" />
       <item value="安全检查" />
       <item value="亲属" />
-      <item value="action" />
-      <item value="uwl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="222" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
