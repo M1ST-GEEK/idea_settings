@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="板块" />
+      <item value="报备" />
+      <item value="集团" />
       <item value="导出" />
       <item value="Scheduling" />
       <item value="Discovery" />
@@ -32,7 +35,6 @@
       <item value="子表" />
       <item value="enclosure" />
       <item value="enclosurepid" />
-      <item value="板块" />
       <item value="real" />
       <item value="realy" />
       <item value="附件" />
@@ -49,8 +51,6 @@
       <item value="拒绝" />
       <item value="退回" />
       <item value="整治 级别" />
-      <item value="整治级别" />
-      <item value="trigger" />
     </histories>
     <option name="languageScores">
       <map>
