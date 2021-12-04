@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前端" />
       <item value="单位" />
       <item value="dept " />
       <item value="Process" />
@@ -50,7 +51,6 @@
       <item value="备注" />
       <item value="专家" />
       <item value="说明" />
-      <item value="agree" />
     </histories>
     <option name="languageScores">
       <map>
