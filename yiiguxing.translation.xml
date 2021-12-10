@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current" />
       <item value="fit" />
       <item value="集团" />
       <item value="Iterator" />
@@ -50,12 +51,11 @@
       <item value="附件" />
       <item value="parent" />
       <item value="父" />
-      <item value="家属" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
