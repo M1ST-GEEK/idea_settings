@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extension" />
       <item value="资质" />
       <item value="集团" />
       <item value="current" />
@@ -50,12 +51,11 @@
       <item value="real" />
       <item value="realy" />
       <item value="附件" />
-      <item value="parent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
