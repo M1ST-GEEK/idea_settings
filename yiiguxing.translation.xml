@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阶段" />
+      <item value="half" />
       <item value="分配" />
       <item value="Implementation" />
       <item value="根据" />
@@ -49,13 +51,11 @@
       <item value="操作" />
       <item value="父母" />
       <item value="儿子" />
-      <item value="子表" />
-      <item value="enclosure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
