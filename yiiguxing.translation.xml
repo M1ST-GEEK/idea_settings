@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pass Token" />
       <item value="Acept" />
       <item value="Global Exception Acept" />
       <item value="implements" />
@@ -50,12 +51,11 @@
       <item value="blur" />
       <item value="定时" />
       <item value="interface" />
-      <item value="Handler dispatch failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
