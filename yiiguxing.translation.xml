@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="documentation Type" />
+      <item value="generics Naming Strategy" />
+      <item value="license Url" />
+      <item value="terms Of Service Url" />
+      <item value="enable Url Templating" />
       <item value="Parameter 0 of constructor in springfox.documentation.swagger.schema.ApiModelPropertyPropertyBuilder required a bean of type 'springfox.documentation.spring.web.DescriptionResolver' that could not be found." />
       <item value="abort Policy" />
       <item value="discard Policy" />
@@ -46,16 +51,11 @@
       <item value="接口" />
       <item value="Org Id" />
       <item value="fhroid" />
-      <item value="返回" />
-      <item value="finish" />
-      <item value="实施" />
-      <item value="拟稿" />
-      <item value="Strictly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="HUNGARIAN" value="1" />
