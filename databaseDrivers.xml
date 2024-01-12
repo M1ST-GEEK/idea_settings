@@ -127,14 +127,22 @@
     <driver id="vertica">
       <artifact name="Vertica" use="true" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
-    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
+    <driver id="java.sql.Driver" name="oceanBase" driver-class="com.oceanbase.jdbc.Driver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
       <option name="format-sources-on-sync" value="true" />
       <option name="send-app-info" value="true" />
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://D:/application/client/oceanbase 2.4.4/oceanbase-client-2.4.4.jar</url>
+      </library>
     </driver>
   </component>
 </application>
