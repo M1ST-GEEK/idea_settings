@@ -9,6 +9,7 @@
       <mapping ext="exe" type="Native" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping pattern=".env.frz" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
