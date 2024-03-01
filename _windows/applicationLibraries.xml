@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="cesiumTdt" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.tianditu.gov.cn_cdn_plugins_cesium_cesiumTdt.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.tianditu.gov.cn_cdn_plugins_cesium_cesiumTdt.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
