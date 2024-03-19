@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="615" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="roll" />
+      <item value="pitch" />
+      <item value="heading" />
+      <item value="orientation" />
+      <item value="destination" />
       <item value="Filter" />
       <item value="WHEEL" />
       <item value="PINCH" />
@@ -49,11 +54,6 @@
       <item value="filecategory" />
       <item value="前端" />
       <item value="单位" />
-      <item value="dept " />
-      <item value="Process" />
-      <item value="amount" />
-      <item value="板块" />
-      <item value="报备" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1709532510526" />
+    <option name="lastTrimTime" value="1710810099284" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
