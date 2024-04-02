@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="615" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="division" />
       <item value="exists" />
       <item value="Could not start Quartz Scheduler after delay" />
       <item value="comparing" />
@@ -53,7 +54,6 @@
       <item value="fit" />
       <item value="Iterator" />
       <item value="Vector" />
-      <item value="file category" />
     </histories>
     <option name="languageScores">
       <map>
