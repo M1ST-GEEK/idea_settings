@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="615" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="insufficient privileges&#10;" />
       <item value="division" />
       <item value="exists" />
       <item value="Could not start Quartz Scheduler after delay" />
@@ -53,7 +54,6 @@
       <item value="current" />
       <item value="fit" />
       <item value="Iterator" />
-      <item value="Vector" />
     </histories>
     <option name="languageScores">
       <map>
