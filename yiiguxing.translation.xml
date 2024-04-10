@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="615" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="premium amount" />
+      <item value="PREMIUM_AMOUNT" />
+      <item value="异议&#10;" />
+      <item value="异议" />
+      <item value="保费&#10;" />
+      <item value="总" />
+      <item value="保额&#10;" />
       <item value="预约" />
       <item value="预约&#10;" />
       <item value="预约信息&#10;" />
@@ -47,13 +54,6 @@
       <item value="discard Oldest Policy" />
       <item value="caller Runs Policy" />
       <item value="Pass Token" />
-      <item value="Acept" />
-      <item value="Global Exception Acept" />
-      <item value="implements" />
-      <item value="阶段" />
-      <item value="half" />
-      <item value="分配" />
-      <item value="Implementation" />
     </histories>
     <option name="languageScores">
       <map>
