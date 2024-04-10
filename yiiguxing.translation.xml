@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="615" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="预约" />
+      <item value="预约&#10;" />
+      <item value="预约信息&#10;" />
+      <item value="前缀" />
+      <item value="前缀&#10;" />
       <item value="管理" />
       <item value="管理&#10;" />
       <item value="production Source Map" />
@@ -49,11 +54,6 @@
       <item value="half" />
       <item value="分配" />
       <item value="Implementation" />
-      <item value="根据" />
-      <item value="待办" />
-      <item value="extension" />
-      <item value="资质" />
-      <item value="集团" />
     </histories>
     <option name="languageScores">
       <map>
