@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="615" />
     <option name="newTranslationDialogY" value="346" />
     <histories>
+      <item value="唯一ID&#10;" />
       <item value="预约" />
       <item value="投保" />
       <item value="预约投保&#10;" />
@@ -53,7 +54,6 @@
       <item value="Parameter 0 of constructor in springfox.documentation.swagger.schema.ApiModelPropertyPropertyBuilder required a bean of type 'springfox.documentation.spring.web.DescriptionResolver' that could not be found." />
       <item value="abort Policy" />
       <item value="discard Policy" />
-      <item value="discard Oldest Policy" />
     </histories>
     <option name="languageScores">
       <map>
