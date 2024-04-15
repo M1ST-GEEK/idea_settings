@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
-    <option name="newTranslationDialogX" value="615" />
-    <option name="newTranslationDialogY" value="346" />
+    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogX" value="652" />
+    <option name="newTranslationDialogY" value="270" />
     <histories>
+      <item value="区划代码" />
+      <item value="区划" />
+      <item value="get" />
       <item value="唯一ID&#10;" />
       <item value="预约" />
       <item value="投保" />
@@ -51,9 +54,6 @@
       <item value="license Url" />
       <item value="terms Of Service Url" />
       <item value="enable Url Templating" />
-      <item value="Parameter 0 of constructor in springfox.documentation.swagger.schema.ApiModelPropertyPropertyBuilder required a bean of type 'springfox.documentation.spring.web.DescriptionResolver' that could not be found." />
-      <item value="abort Policy" />
-      <item value="discard Policy" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1712562828620" />
+    <option name="lastTrimTime" value="1713166177441" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
