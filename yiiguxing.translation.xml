@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="652" />
     <option name="newTranslationDialogY" value="270" />
     <histories>
+      <item value="Illegal Argument Exception" />
       <item value="Gender" />
       <item value="区划代码" />
       <item value="区划" />
@@ -46,7 +47,6 @@
       <item value="password" />
       <item value="input&#10;" />
       <item value="hello&#10;" />
-      <item value="Illegal Argument Exception" />
       <item value="commons" />
       <item value="execute" />
       <item value="GDAL Destroy Driver Manager" />
