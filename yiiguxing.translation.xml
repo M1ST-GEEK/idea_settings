@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="652" />
     <option name="newTranslationDialogY" value="270" />
     <histories>
+      <item value="isinternetrisk" />
+      <item value="material Contxt" />
+      <item value="sale Area Level" />
+      <item value="unitpre miums" />
+      <item value="unitpre miums&#10;" />
+      <item value="unitpreMiums" />
+      <item value="unitpre Miums" />
+      <item value="target Custom" />
+      <item value="risk Launch Num" />
       <item value="核心&#10;" />
       <item value="DEFAULT" />
       <item value="IGNORED" />
@@ -45,15 +54,6 @@
       <item value="heading" />
       <item value="orientation" />
       <item value="destination" />
-      <item value="Filter" />
-      <item value="WHEEL" />
-      <item value="PINCH" />
-      <item value="auto Reset Heading Pitch" />
-      <item value="disable Depth Test Distance" />
-      <item value="scale" />
-      <item value="RIGHT DRAG" />
-      <item value="password" />
-      <item value="input&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1715569787423" />
+    <option name="lastTrimTime" value="1716183148773" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
