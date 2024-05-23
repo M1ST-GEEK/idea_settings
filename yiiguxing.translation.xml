@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="652" />
     <option name="newTranslationDialogY" value="270" />
     <histories>
+      <item value="description" />
       <item value="infomation&#10;" />
       <item value="restore" />
       <item value="drisk&#10;" />
@@ -53,7 +54,6 @@
       <item value="管理&#10;" />
       <item value="production Source Map" />
       <item value="insufficient privileges&#10;" />
-      <item value="division" />
     </histories>
     <option name="languageScores">
       <map>
