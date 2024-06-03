@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="544" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="耳标校验产品列表&#10;" />
+      <item value="耳标校验产品&#10;" />
+      <item value="耳标校验&#10;" />
+      <item value="耳标&#10;" />
+      <item value="test&#10;" />
+      <item value="耳标" />
       <item value="绑定&#10;" />
       <item value="识别码&#10;&#10;" />
       <item value="标的 识别码&#10;&#10;" />
@@ -48,12 +54,6 @@
       <item value="预约投保&#10;" />
       <item value="premium amount" />
       <item value="PREMIUM_AMOUNT" />
-      <item value="异议&#10;" />
-      <item value="异议" />
-      <item value="保费&#10;" />
-      <item value="总" />
-      <item value="保额&#10;" />
-      <item value="预约&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,6 +75,7 @@
         <option name="appId" value="20200608000489895" />
       </app-key>
     </option>
+    <option name="keepFormat" value="true" />
     <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
