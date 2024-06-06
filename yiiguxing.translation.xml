@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="542" />
+    <option name="newTranslationDialogWidth" value="540" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="前缀&#10;" />
       <item value="耳标&#10;" />
       <item value="耳标校验产品列表&#10;" />
       <item value="耳标校验产品&#10;" />
@@ -53,7 +54,6 @@
       <item value="投保" />
       <item value="预约投保&#10;" />
       <item value="premium amount" />
-      <item value="PREMIUM_AMOUNT" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1717121422375" />
+    <option name="lastTrimTime" value="1717639883627" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
