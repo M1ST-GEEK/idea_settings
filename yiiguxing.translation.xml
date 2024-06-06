@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="上传来源&#10;" />
+      <item value="上传" />
+      <item value="预览地址&#10;" />
+      <item value="预览地址" />
       <item value="后缀&#10;" />
       <item value="扩展名&#10;" />
       <item value="batch&#10;" />
@@ -50,10 +54,6 @@
       <item value="Illegal Argument Exception" />
       <item value="Gender" />
       <item value="区划代码" />
-      <item value="区划" />
-      <item value="get" />
-      <item value="唯一ID&#10;" />
-      <item value="预约" />
     </histories>
     <option name="languageScores">
       <map>
