@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="532" />
+    <option name="newTranslationDialogWidth" value="526" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="图片&#10;" />
+      <item value="耳标&#10;" />
       <item value="首次&#10;" />
       <item value="Could not transfer artifact" />
       <item value="Process terminated" />
@@ -15,7 +17,6 @@
       <item value="扩展名&#10;" />
       <item value="batch&#10;" />
       <item value="前缀&#10;" />
-      <item value="耳标&#10;" />
       <item value="耳标校验产品列表&#10;" />
       <item value="耳标校验产品&#10;" />
       <item value="耳标校验&#10;" />
@@ -53,7 +54,6 @@
       <item value="单位" />
       <item value="待接收&#10;" />
       <item value="待" />
-      <item value="SCHEMA" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1717639883627" />
+    <option name="lastTrimTime" value="1718157575670" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
