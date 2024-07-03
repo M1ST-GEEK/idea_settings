@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="510" />
+    <option name="newTranslationDialogWidth" value="508" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="ocr 识别" />
+      <item value="ocr" />
       <item value="operating period" />
       <item value="transfer To" />
       <item value="上限" />
@@ -52,8 +54,6 @@
       <item value="预览地址" />
       <item value="后缀&#10;" />
       <item value="扩展名&#10;" />
-      <item value="前缀&#10;" />
-      <item value="耳标校验产品列表&#10;" />
     </histories>
     <option name="languageScores">
       <map>
