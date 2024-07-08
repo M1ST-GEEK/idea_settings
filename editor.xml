@@ -48,6 +48,7 @@
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseEndOfLineComments" value="true" />
     <option name="collapseMultilineComments" value="true" />
   </component>
 </application>
