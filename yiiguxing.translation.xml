@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="498" />
+    <option name="newTranslationDialogWidth" value="496" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="递增标识&#10;" />
+      <item value="递增" />
       <item value="本机ip&#10;" />
       <item value="反&#10;" />
       <item value="正反&#10;" />
@@ -52,8 +54,6 @@
       <item value="耳标&#10;" />
       <item value="首次&#10;" />
       <item value="Could not transfer artifact" />
-      <item value="Process terminated" />
-      <item value="上传来源&#10;" />
     </histories>
     <option name="languageScores">
       <map>
