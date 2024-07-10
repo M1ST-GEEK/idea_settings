@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="500" />
+    <option name="newTranslationDialogWidth" value="498" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="本机ip&#10;" />
       <item value="反&#10;" />
       <item value="正反&#10;" />
       <item value="调用" />
@@ -53,7 +54,6 @@
       <item value="Could not transfer artifact" />
       <item value="Process terminated" />
       <item value="上传来源&#10;" />
-      <item value="上传" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1719970596779" />
+    <option name="lastTrimTime" value="1720578669877" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
