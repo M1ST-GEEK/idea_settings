@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="482" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="前缀&#10;" />
+      <item value="分割&#10;" />
+      <item value="分隔符&#10;" />
+      <item value="结尾&#10;" />
+      <item value="中间&#10;" />
+      <item value="浙江&#10;" />
+      <item value="virtual" />
       <item value="递增标识&#10;" />
       <item value="递增" />
       <item value="本机ip&#10;" />
@@ -47,13 +54,6 @@
       <item value="任务不存在" />
       <item value="任务" />
       <item value="有效&#10;" />
-      <item value="生效&#10;" />
-      <item value="计数&#10;" />
-      <item value="batch&#10;" />
-      <item value="图片&#10;" />
-      <item value="耳标&#10;" />
-      <item value="首次&#10;" />
-      <item value="Could not transfer artifact" />
     </histories>
     <option name="languageScores">
       <map>
