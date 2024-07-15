@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="PREFIX" />
       <item value="前缀&#10;" />
       <item value="分割&#10;" />
       <item value="分隔符&#10;" />
@@ -53,7 +54,6 @@
       <item value="操作失败&#10;" />
       <item value="任务不存在" />
       <item value="任务" />
-      <item value="有效&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1720578669877" />
+    <option name="lastTrimTime" value="1721034143423" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
