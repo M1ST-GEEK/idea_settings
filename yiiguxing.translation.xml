@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="474" />
+    <option name="newTranslationDialogWidth" value="472" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="字典&#10;" />
       <item value="分区&#10;" />
       <item value="未找到&#10;" />
       <item value="后缀&#10;" />
@@ -53,7 +54,6 @@
       <item value="CB_ZLB_ORDER PA YDETAIL" />
       <item value="CB_ZLB_ORDER PAYDETAIL" />
       <item value="CB_ZLB_ORDERPAYDETAIL" />
-      <item value="INSURANCE LIST" />
     </histories>
     <option name="languageScores">
       <map>
