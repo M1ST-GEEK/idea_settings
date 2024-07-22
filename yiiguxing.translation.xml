@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="480" />
+    <option name="newTranslationDialogWidth" value="478" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="单列市" />
+      <item value="单列" />
       <item value="SEARCHNODATA" />
       <item value="SEARCHNO DATA" />
       <item value="PREFIX" />
@@ -52,8 +54,6 @@
       <item value="INSURANCELIST" />
       <item value="POLICY FIRST TRIAL" />
       <item value="POLICY FIRSTTRIAL" />
-      <item value="POLICYFIRSTTRIAL" />
-      <item value="操作失败&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1721034143423" />
+    <option name="lastTrimTime" value="1721613760888" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
