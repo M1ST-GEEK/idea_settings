@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="478" />
+    <option name="newTranslationDialogWidth" value="476" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="未找到&#10;" />
+      <item value="后缀&#10;" />
       <item value="单列市" />
       <item value="单列" />
       <item value="SEARCHNODATA" />
@@ -52,8 +54,6 @@
       <item value="CB_ZLB_ORDERPAYDETAIL" />
       <item value="INSURANCE LIST" />
       <item value="INSURANCELIST" />
-      <item value="POLICY FIRST TRIAL" />
-      <item value="POLICY FIRSTTRIAL" />
     </histories>
     <option name="languageScores">
       <map>
