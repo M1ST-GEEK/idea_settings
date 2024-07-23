@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="PARTITION" />
       <item value="biz_license_operating_period" />
       <item value="虚拟机构代码&#10;" />
       <item value="字典&#10;" />
@@ -53,7 +54,6 @@
       <item value="CB_ZLB_PROJECT_FEED BACKWRONG" />
       <item value="CB_ZLB_PROJECT_FEEDBACKWRONG" />
       <item value="CB_ZLB_ORDER PAY DETAIL" />
-      <item value="CB_ZLB_ORDER PA YDETAIL" />
     </histories>
     <option name="languageScores">
       <map>
