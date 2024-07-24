@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="470" />
+    <option name="newTranslationDialogWidth" value="468" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="分隔&#10;" />
+      <item value="分隔符&#10;" />
       <item value="PARTITION" />
       <item value="biz_license_operating_period" />
       <item value="虚拟机构代码&#10;" />
@@ -18,7 +20,6 @@
       <item value="PREFIX" />
       <item value="前缀&#10;" />
       <item value="分割&#10;" />
-      <item value="分隔符&#10;" />
       <item value="结尾&#10;" />
       <item value="中间&#10;" />
       <item value="浙江&#10;" />
@@ -53,7 +54,6 @@
       <item value="CB_ZLB_PROJECT_FEED BACK WRONG" />
       <item value="CB_ZLB_PROJECT_FEED BACKWRONG" />
       <item value="CB_ZLB_PROJECT_FEEDBACKWRONG" />
-      <item value="CB_ZLB_ORDER PAY DETAIL" />
     </histories>
     <option name="languageScores">
       <map>
