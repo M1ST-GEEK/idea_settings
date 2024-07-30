@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="468" />
+    <option name="newTranslationDialogWidth" value="466" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="数量" />
       <item value="分隔&#10;" />
       <item value="分隔符&#10;" />
       <item value="PARTITION" />
@@ -53,7 +54,6 @@
       <item value="FEED BACK WRONG" />
       <item value="CB_ZLB_PROJECT_FEED BACK WRONG" />
       <item value="CB_ZLB_PROJECT_FEED BACKWRONG" />
-      <item value="CB_ZLB_PROJECT_FEEDBACKWRONG" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1721613760888" />
+    <option name="lastTrimTime" value="1722330272377" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
