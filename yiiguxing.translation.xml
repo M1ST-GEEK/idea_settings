@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="CONSTRUCTOR" />
       <item value="interface" />
       <item value="数量" />
       <item value="分隔&#10;" />
@@ -53,7 +54,6 @@
       <item value="PROJECT_INSURED" />
       <item value="CB_ZLB_PROJECT_INSURED" />
       <item value="FEED BACK WRONG" />
-      <item value="CB_ZLB_PROJECT_FEED BACK WRONG" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1722330272377" />
+    <option name="lastTrimTime" value="1722871995989" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
