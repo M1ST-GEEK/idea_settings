@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="464" />
+    <option name="newTranslationDialogWidth" value="460" />
     <option name="newTranslationDialogX" value="1071" />
     <option name="newTranslationDialogY" value="204" />
     <histories>
+      <item value="覆盖" />
+      <item value="增量" />
       <item value="在线离线标识&#10;" />
       <item value="Returns the system-dependent line separator string.  It always&#10;      returns the same value - the initial value of the {@linkplain&#10;      getProperty(String) system property} {@code line.separator}." />
       <item value="CONSTRUCTOR" />
@@ -52,8 +54,6 @@
       <item value="SFF_GROUPPOLICY_LOG" />
       <item value="CB_ZLB_SFF_GROUPPOLICY_LOG" />
       <item value="PROPOSAL" />
-      <item value="PROPOSALNO" />
-      <item value="PROJECT_INSURED" />
     </histories>
     <option name="languageScores">
       <map>
